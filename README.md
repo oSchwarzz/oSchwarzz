@@ -5,7 +5,7 @@
 
 ### - **Sobre mim** 🙋
 
-🎓 Estudante de Engenharia de Software<br>
+🎓 Acadêmico de Engenharia de Software<br>
 💡 Apaixonado por tecnologia e pelo mundo da programação<br>
 
 ### - **Conhecimentos** 🧠
