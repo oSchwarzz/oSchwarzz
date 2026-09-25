@@ -17,6 +17,4 @@
     alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
    <img aling="left" alt="Python" title="Python" width="30px" 
     alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-     <img aling="left" alt="JavaScript" title="JavaScript" width="30px" 
-    alt="HTML" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://cdn-icons-png.flaticon.com/128/1199/1199124.png)" />
 </div>
